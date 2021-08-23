@@ -37,6 +37,8 @@ build-iPhoneSimulator/
 /_yardoc/
 /doc/
 /rdoc/
+.jekyll-cache/
+_site/web development/
 
 ## Environment normalization:
 /.bundle/
