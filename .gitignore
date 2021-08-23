@@ -39,7 +39,7 @@ build-iPhoneSimulator/
 /rdoc/
 .jekyll-cache/
 _site/web development/
-src/_site/web development/
+src/_site/web\ development/
 
 ## Environment normalization:
 /.bundle/
